@@ -179,7 +179,7 @@ const projects = [
   {
     name: "NBA Bets",
     description:
-      "Volt is a comprehensive portfolio management software which offers a holistic solution for managing startup portfolios. Seamlessly manage your portfolio, track investments, and analyze performance all in one place with Volt's latest industry standards and best practices. Say goodbye to inefficiencies, embrace Volt!",
+      "Feeding NBA historical data into neural networks using PyTorch and Tensorflow, I gain insights that I use to make bets on NBA games.",
     tags: [
       {
         name: "sports betting",
@@ -224,7 +224,7 @@ const projects = [
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/PriyanshNegi/PredCo",
+    source_code_link: "https://github.com/davidsanchez222/nba_bets",
   },
   // {
   //   name: "Prompt-X",
