@@ -133,7 +133,7 @@ const experiences = [
     company_name: "Fluence",
     icon: tesla,
     iconBg: "#E6DEDD",
-    date: "Feb 2022 - Oct 2022",
+    date: "Jun 2023 - Sep 2023",
     points: [
       "Focused on analyzing why batteries degrade and extracting important data to explain it.",
       "Analyzed battery rack current data and found that bottom racks on the battery cores had higher current.",
