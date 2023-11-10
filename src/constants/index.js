@@ -182,7 +182,7 @@ const projects = [
       "Volt is a comprehensive portfolio management software which offers a holistic solution for managing startup portfolios. Seamlessly manage your portfolio, track investments, and analyze performance all in one place with Volt's latest industry standards and best practices. Say goodbye to inefficiencies, embrace Volt!",
     tags: [
       {
-        name: "web dev",
+        name: "sports betting",
         color: "blue-text-gradient",
       },
       {
@@ -190,32 +190,36 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "software engineering",
+        name: "data analysis",
         color: "pink-text-gradient",
+      },
+      {
+        name: "machine learning",
+        color: "orange-text-gradient",
       },
     ],
     image: carrent,
     source_code_link: "https://github.com/StarticField",
   },
   {
-    name: "PredCo",
+    name: "Eurotower",
     description:
-      "Web application that processes real-time data coming from IoT sensors installed in various industries. It serves as a powerful tool for Predictive Maintenance, enabling the detection of potential issues and triggering alerts. By optimizing scheduled maintenance activities, the application helps companies achieve significant cost savings.",
+      "Web application that displays real time data of VIX futures contracts",
     tags: [
       {
-        name: "internet of things",
+        name: "finance",
         color: "blue-text-gradient",
       },
       {
-        name: "elastic search",
+        name: "data analysis",
         color: "green-text-gradient",
       },
       {
-        name: "kibana",
+        name: "options trading",
         color: "pink-text-gradient",
       },
       {
-        name: "aws-ec2",
+        name: "vix",
         color: "orange-text-gradient",
       },
     ],
