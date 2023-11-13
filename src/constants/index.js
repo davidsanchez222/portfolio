@@ -199,7 +199,7 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/StarticField",
+    source_code_link: "https://github.com/davidsanchez222/nba_bets",
   },
   {
     name: "Eurotower",
@@ -224,7 +224,7 @@ const projects = [
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/davidsanchez222/nba_bets",
+    source_code_link: "https://github.com/davidsanchez222/eurotower",
   },
   // {
   //   name: "Prompt-X",
