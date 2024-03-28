@@ -50,7 +50,7 @@ const services = [
     icon: mobile,
   },
   {
-    title: "Data Scientist",
+    title: "Data Engineer",
     icon: backend,
   },
   {
@@ -64,10 +64,10 @@ const technologies = [
     name: "figma",
     icon: figma,
   },
-  // {
-  //   name: "MongoDB",
-  //   icon: mongodb,
-  // },
+  {
+    name: "MongoDB",
+    icon: mongodb,
+  },
   {
     name: "git",
     icon: git,
@@ -91,10 +91,6 @@ const technologies = [
   {
     name: "Three JS",
     icon: threejs,
-  },
-  {
-    name: "Redux Toolkit",
-    icon: redux,
   },
   {
     name: "Node JS",
@@ -161,12 +157,10 @@ const testimonials = [
     name: "Anup Robins",
     designation: "HR Business Partner",
     company: "Experian",
-    image:
-      "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png",
+    image: "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png",
   },
   {
-    testimonial:
-      "This guy has what it takes for the first unicorn. Just wait and watch.",
+    testimonial: "This guy has what it takes for the first unicorn. Just wait and watch.",
     name: "Aman Sharma",
     designation: "CTO",
     company: "Dinnerfy",
@@ -203,8 +197,7 @@ const projects = [
   },
   {
     name: "Eurotower",
-    description:
-      "Web application that displays real time data of VIX futures contracts",
+    description: "Web application that displays real time data of VIX futures contracts",
     tags: [
       {
         name: "finance",
