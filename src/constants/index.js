@@ -72,10 +72,10 @@ const technologies = [
     name: "git",
     icon: git,
   },
-  // {
-  //   name: "JavaScript",
-  //   icon: javascript,
-  // },
+  {
+    name: "JavaScript",
+    icon: javascript,
+  },
   {
     name: "HTML 5",
     icon: html,
@@ -104,21 +104,23 @@ const technologies = [
     name: "docker",
     icon: docker,
   },
-  {
-    name: "TypeScript",
-    icon: typescript,
-  },
+  // {
+  //   name: "TypeScript",
+  //   icon: typescript,
+  // },
 ];
 
 const experiences = [
   {
-    title: "Software Engineering Intern",
+    title: "Artifical Intelligence Intern",
     company_name: "Singularity Capital",
     icon: starbucks,
     iconBg: "#383E56",
     date: "May 2022 - Aug 2022",
     points: [
       "Utilized Yahoo Finance Python wrapper to access historical data on stock indices such as SPY and QQQ.",
+      "Refactored a deep learning model trained on that historical data from TensorFlow to PyTorch",
+      "The new PyTorch model saw an increase of 12% in accuracy when predicting stock prices.",
       "Developed script that track the starts and ends of bull and bear markets in the past and calculated max drawdown.",
       "Created a market scanner entry signal based on relative value for highly correlated equity pairs like HD and LOW.",
       "Extensively back tested models in parallel and avoided common data leakage problems found in financial time series datasets.",
