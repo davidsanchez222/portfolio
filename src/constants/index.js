@@ -127,11 +127,13 @@ const experiences = [
     ],
   },
   {
-    title: "Data Engineering Intern",
+    // title: "Data Engineering Intern",
+    title: "Data Scientist",
     company_name: "Fluence (subsidiary of Siemens)",
     icon: tesla,
     iconBg: "#E6DEDD",
-    date: "Jun 2023 - Sep 2023",
+    // date: "Jun 2023 - Sep 2023",
+    date: "Jun 2023 - Present",
     points: [
       "Focused on analyzing why batteries degrade and extracting important data to explain it.",
       "Analyzed battery rack current data and found that bottom racks on the battery cores had higher current.",
