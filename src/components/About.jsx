@@ -47,7 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        {/* I'm an incoming third year student at the University of Georgia pursuing a B.S. in Computer Science. I have been programming since 2019 and have a passion for machine learning and website development. */}
+        I'm an incoming fourth year student at the University of Georgia pursuing a B.S. in Computer Science. I have been programming since 2019 and have a passion for machine learning and website development.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>

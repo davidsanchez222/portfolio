@@ -127,8 +127,8 @@ const experiences = [
     ],
   },
   {
-    // title: "Data Engineering Intern",
-    title: "Data Scientist",
+    title: "Data Science Intern",
+    // title: "Data Scientist",
     company_name: "Fluence (subsidiary of Siemens)",
     icon: tesla,
     iconBg: "#E6DEDD",
